@@ -17,6 +17,7 @@ Package.on_use(function (api) {
         'lib/jqwidgets/styles/images/loader.gif',
         'lib/jqwidgets/styles/images/close.png',
         'lib/jqwidgets/styles/images/menubutton.png',
+        'lib/jqwidgets/styles/images/filter.png',
 
    /*     'lib/jqwidgets/styles/images/metro-icon-left.png',
         'lib/jqwidgets/styles/images/metro-icon-right.png',
