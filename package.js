@@ -18,6 +18,8 @@ Package.on_use(function (api) {
         'lib/jqwidgets/styles/images/close.png',
         'lib/jqwidgets/styles/images/menubutton.png',
         'lib/jqwidgets/styles/images/filter.png',
+        'lib/jqwidgets/styles/images/check_indeterminate_black.png',
+        'lib/jqwidgets/styles/images/drag.png',
 
    /*     'lib/jqwidgets/styles/images/metro-icon-left.png',
         'lib/jqwidgets/styles/images/metro-icon-right.png',
