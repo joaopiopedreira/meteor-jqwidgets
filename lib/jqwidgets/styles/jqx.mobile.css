@@ -277,7 +277,7 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
 }
 
 .jqx-grid-column-menubutton-mobile {
-    background-image: url('images/icon-down-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down-transparent.png');
 }
 
 .jqx-input-mobile {
@@ -292,11 +292,11 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
 }
 /*applied to the column's sort button when the sort order is ascending.*/
 .jqx-grid-column-sortascbutton-mobile {
-    background-image: url('images/icon-up-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up-transparent.png');
 }
 
 .jqx-grid-column-sortdescbutton-mobile {
-    background-image: url('images/icon-down-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down-transparent.png');
 }
 
 .jqx-checkbox-default-mobile {
@@ -310,11 +310,11 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
 
 .jqx-checkbox-check-checked-mobile {
     position: relative;
-    background: transparent url(images/check_blue.png) center center no-repeat;
+    background: transparent url(/packages/jqwidgets/lib/jqwidgets/styles/images/check_blue.png) center center no-repeat;
 }
 
 .jqx-checkbox-check-indeterminate-mobile {
-    background: transparent url(images/check_blue_indeterminate.png) center center no-repeat;
+    background: transparent url(/packages/jqwidgets/lib/jqwidgets/styles/images/check_blue_indeterminate.png) center center no-repeat;
 }
 
 .jqx-radiobutton-check-checked-mobile {
@@ -357,77 +357,77 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
 
 /*icons*/
 .jqx-window-collapse-button-mobile {
-    background-image: url(images/icon-up-transparent.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up-transparent.png);
 }
 
 .jqx-window-collapse-button-collapsed-mobile {
-    background-image: url(images/icon-down-transparent.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down-transparent.png);
 }
 
 .jqx-icon-arrow-up-mobile, .jqx-expander-arrow-bottom-mobile, .jqx-menu-item-arrow-up-mobile {
-    background-image: url('images/icon-up-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up-transparent.png');
 }
 
 .jqx-icon-arrow-down-mobile, .jqx-expander-arrow-top-mobile, .jqx-menu-item-arrow-down-mobile {
-    background-image: url('images/icon-down-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down-transparent.png');
 }
 
 .jqx-icon-arrow-left-mobile, .jqx-menu-item-arrow-left-mobile {
-    background-image: url('images/icon-left-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left-transparent.png');
 }
 
 .jqx-icon-arrow-right-mobile, .jqx-menu-item-arrow-right-mobile {
-    background-image: url('images/icon-right-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right-transparent.png');
 }
 
 .jqx-tree-item-arrow-collapse-rtl-mobile, .jqx-tree-item-arrow-collapse-hover-rtl-mobile {
-    background-image: url('images/icon-left-blue.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left-blue.png');
 }
 
 .jqx-tabs-arrow-left-mobile, .jqx-grid-pager-mobile .jqx-icon-arrow-left-mobile {
-    background-image: url('images/icon-left-blue.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left-blue.png');
 }
 .jqx-tree-item-arrow-expand-hover-mobile, .jqx-tree-item-arrow-expand-mobile {
-    background-image: url('images/icon-down-blue.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down-blue.png');
 } 
 .jqx-tree-item-arrow-collapse-hover-mobile, .jqx-tree-item-arrow-collapse-mobile, .jqx-tabs-arrow-right-mobile, .jqx-grid-pager-mobile .jqx-icon-arrow-right-mobile {
-    background-image: url('images/icon-right-blue.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right-blue.png');
 }
 
 .jqx-calendar-mobile .jqx-icon-arrow-right-mobile {
-    background-image: url('images/icon-right-blue.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right-blue.png');
 }
 
 .jqx-calendar-mobile .jqx-icon-arrow-left-mobile {
-    background-image: url('images/icon-left-blue.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left-blue.png');
 }
 
 .jqx-menu-item-arrow-up-selected-mobile, .jqx-icon-arrow-up-selected-mobile {
-    background-image: url('images/icon-up-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up-transparent.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .jqx-menu-item-arrow-down-selected-mobile, .jqx-icon-arrow-down-selected-mobile {
-    background-image: url('images/icon-down-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down-transparent.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .jqx-menu-item-arrow-left-selected-mobile, .jqx-icon-arrow-left-selected-mobile {
-    background-image: url('images/icon-left-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left-transparent.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .jqx-menu-item-arrow-right-selected-mobile, .jqx-icon-arrow-right-selected-mobile {
-    background-image: url('images/icon-right-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right-transparent.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .jqx-window-close-button-mobile, .jqx-icon-close-mobile, .jqx-tabs-close-button-mobile, .jqx-tabs-close-button-hover-mobile, .jqx-tabs-close-button-selected-mobile {
-    background-image: url(images/close_blue.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/close_blue.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -437,25 +437,25 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
 }
 
 .jqx-scrollbar-mobile .jqx-icon-arrow-up-selected-mobile {
-    background-image: url('images/icon-up-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up-transparent.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .jqx-scrollbar-mobile .jqx-icon-arrow-down-selected-mobile {
-    background-image: url('images/icon-down-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down-transparent.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .jqx-scrollbar-mobile .jqx-icon-arrow-left-selected-mobile {
-    background-image: url('images/icon-left-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left-transparent.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .jqx-scrollbar-mobile .jqx-icon-arrow-right-selected-mobile {
-    background-image: url('images/icon-right-transparent.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right-transparent.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -610,7 +610,7 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
     margin-left: -10px;
 }
 .jqx-listmenu-backbutton-arrow-mobile {
-   background-image: url('images/icon-left-blue.png'); 
+   background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left-blue.png');
    background-repeat: no-repeat;
    width: 16px;
    height: 16px;
@@ -622,13 +622,13 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
 }
 
 .jqx-icon-arrow-first-mobile {
-    background-image: url('images/icon-first-blue.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-first-blue.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .jqx-icon-arrow-last-mobile {
-    background-image: url('images/icon-last-blue.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-last-blue.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -721,21 +721,21 @@ input[type=text].jqx-input-mobile, input[type=password].jqx-input-mobile {
     color: #fff;
 }
 .jqx-grid-group-collapse-mobile {
-    background-image: url(images/icon-right-blue.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right-blue.png);
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }
 .jqx-grid-group-collapse-rtl-mobile
 {
     padding-right: 0px;
-    background-image: url(images/icon-left-blue.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left-blue.png);
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }
 .jqx-grid-group-expand-mobile, .jqx-grid-group-expand-rtl-mobile
 {
     padding-right: 0px;
-    background-image: url(images/icon-down-blue.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down-blue.png);
     background-position: 50% 50%;
     background-repeat: no-repeat;
 }

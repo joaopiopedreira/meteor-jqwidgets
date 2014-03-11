@@ -253,7 +253,7 @@
     border-style: solid;
     border-width: 0px 0px 0px 1px;
     border-color: transparent;
-    background-image: url('images/menubutton.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/menubutton.png');
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
@@ -264,7 +264,7 @@
  /*applied to the column's sort button when the sort order is ascending.*/
  .jqx-grid-column-sortascbutton {
     border: none;
-    background-image: url('images/sortascbutton.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/sortascbutton.png');
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
@@ -272,7 +272,7 @@
  /*applied to the column's sort button when the sort order is descending.*/
   .jqx-grid-column-sortdescbutton {
     border: none;
-    background-image: url('images/sortdescbutton.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/sortdescbutton.png');
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
@@ -281,7 +281,7 @@
   .jqx-grid-column-filterbutton
  {
     border: none;
-    background-image: url('images/filter.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/filter.png');
     background-repeat: no-repeat;
     background-position: center;
  }
@@ -303,13 +303,13 @@
 }
   .jqx-grid-validation-arrow-up
  {
-    background-image: url('images/red_arrow_up.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/red_arrow_up.png');
     background-repeat: no-repeat;
     background-position: center center;
  }
   .jqx-grid-validation-arrow-down
  {
-    background-image: url('images/red_arrow_down.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/red_arrow_down.png');
     background-repeat: no-repeat;
     background-position: center center;
  }
@@ -320,7 +320,7 @@
   /*applied to the sort ascending menu item in the Grid's Context Menu*/
  .jqx-grid-sortasc-icon
  {
-    background-image: url('images/sortasc.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/sortasc.png');
     background-repeat: no-repeat;
     background-position: left center;
     width: 16px;
@@ -332,7 +332,7 @@
   /*applied to the sort ascending menu item in the Grid's Context Menu*/
  .jqx-grid-sortdesc-icon
  {
-    background-image: url('images/sortdesc.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/sortdesc.png');
     background-repeat: no-repeat;
     background-position: left center;
     width: 16px;
@@ -344,7 +344,7 @@
   /*applied to the grid menu's sort remove item/*/
  .jqx-grid-sortremove-icon
  {
-    background-image: url('images/sortremove.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/sortremove.png');
     background-repeat: no-repeat;
     background-position: left center;
     width: 16px;
@@ -356,7 +356,7 @@
    /*applied to the grouping column's drag and drop item when the drop operation is allowed.*/
  .jqx-grid-drag-icon
  {
-    background-image: url('images/drag.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/drag.png');
     background-repeat: no-repeat;
     background-position: left center;
     width: 16px;
@@ -365,7 +365,7 @@
    /*applied to the grouping column's drag and drop item when the drop operation is not allowed.*/
  .jqx-grid-dragcancel-icon
  {
-    background-image: url('images/dragcancel.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/dragcancel.png');
     background-repeat: no-repeat;
     background-position: left center;
     width: 16px;
@@ -704,7 +704,7 @@
  .jqx-grid-load
 {
     padding-right: 0px;
-    background-image: url(images/loader.gif);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/loader.gif);
     background-position: 50% 50%;
     background-repeat: no-repeat;  
     z-index: 9999;
@@ -714,7 +714,7 @@
 .jqx-grid-group-collapse
 {
     padding-right: 0px;
-    background-image: url(images/icon-right.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right.png);
     background-position: 50% 50%;
     background-repeat: no-repeat;
     cursor: pointer;
@@ -722,7 +722,7 @@
 .jqx-grid-group-collapse-rtl
 {
     padding-right: 0px;
-    background-image: url(images/icon-left.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left.png);
     background-position: 50% 50%;
     background-repeat: no-repeat;
     cursor: pointer;
@@ -731,7 +731,7 @@
 .jqx-grid-group-expand, .jqx-grid-group-expand-rtl
 {
     padding-right: 0px;
-    background-image: url(images/icon-down.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down.png);
     background-position: 50% 50%;
     background-repeat: no-repeat;
     cursor: pointer;
@@ -947,17 +947,17 @@
 /*applied to a sub menu item when it has sub menu items. Displays right arrow icon.*/
 .jqx-menu-item-arrow-right
 {
-    background-image: url(images/icon-right.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right.png);
 }
 /*applied to a sub menu item when it has sub menu items. Displays down arrow icon.*/
 .jqx-menu-item-arrow-down
 {
-    background-image: url(images/icon-down.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down.png);
 }
 /*applied to a sub menu item when it has sub menu items. Displays up arrow icon.*/
 .jqx-menu-item-arrow-up
 {
-    background-image: url(images/icon-up.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up.png);
 }
 .jqx-menu-item-arrow-right, .jqx-menu-item-arrow-down, .jqx-menu-item-arrow-up, .jqx-menu-item-arrow-right {
     background-position: 100% 50%;
@@ -974,24 +974,24 @@
     padding-left: 5px;
     width: 17px;
     height: 15px;
-    background-image: url(images/icon-left.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left.png);
     background-position: 0 50%;
     background-repeat: no-repeat;
 }
 /*applied to a sub menu item when it has sub menu items and its sub menu is opened. Displays right arrow icon.*/
 .jqx-menu-item-arrow-right-selected
 {
-    background-image: url(images/icon-right.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right.png);
 }
 /*applied to a sub menu item when it has sub menu items and its sub menu is opened. Displays down arrow icon.*/
 .jqx-menu-item-arrow-down-selected
 {
-    background-image: url(images/icon-down.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down.png);
 }
 /*applied to a sub menu item when it has sub menu items and its sub menu is opened. Displays up arrow icon.*/
 .jqx-menu-item-arrow-up-selected
 {
-    background-image: url(images/icon-up.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up.png);
 }
 .jqx-menu-item-arrow-right-selected, .jqx-menu-item-arrow-up-selected, .jqx-menu-item-arrow-down-selected, .jqx-menu-item-arrow-top-right {
     padding-right: 0px;
@@ -1004,17 +1004,17 @@
 /*applied to a top-level menu item when it has sub menu items. Displays right arrow icon.*/
 .jqx-menu-item-arrow-top-right
 {
-    background-image: url(images/icon-right.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right.png);
 }
 /*applied to a sub menu item when it has sub menu items and its sub menu is opened. Displays left arrow icon.*/
 .jqx-menu-item-arrow-left-selected
 {
-    background-image: url(images/icon-left.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left.png);
 }
 /*applied to a top-level menu item when it has sub menu items. Displays left arrow icon.*/
 .jqx-menu-item-arrow-top-left
 {
-    background-image: url(images/icon-left.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left.png);
 }
 .jqx-menu-item-arrow-left-selected, .jqx-menu-item-arrow-top-left {
     background-position: 0 50%;
@@ -1224,13 +1224,13 @@
     padding-right: 0px;
     width: 17px;
     height: 17px;
-    background-image: url(images/icon-right.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right.png);
     background-position: 100% 50%;
     background-repeat: no-repeat;
     cursor: pointer;
 }
 .jqx-tree-item-arrow-collapse-rtl, .jqx-tree-item-arrow-collapse-hover-rtl {
-    background-image: url(images/icon-left.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left.png);
 }
 
 /*applied to a tree item when it has sub items and is expanded. Displays an arrow icon next to the item.*/
@@ -1239,7 +1239,7 @@
     padding-right: 0px;
     width: 17px;
     height: 17px;
-    background-image: url(images/icon-down.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down.png);
     background-position: 100% 50%;
     background-repeat: no-repeat;
     cursor: pointer;
@@ -1280,7 +1280,7 @@
 .jqx-tabs-close-button
 {
     outline: none;
-    background-image: url(images/close.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/close.png);
     cursor: pointer;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
@@ -1291,7 +1291,7 @@
 .jqx-tabs-close-button-selected
 {
     outline: none;
-    background-image: url(images/close.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/close.png);
     cursor: pointer;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
@@ -1300,7 +1300,7 @@
 .jqx-tabs-close-button-hover
 {
     outline: none;
-    background-image: url(images/close.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/close.png);
     cursor: pointer;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
@@ -1315,7 +1315,7 @@
     cursor: pointer;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
-    background-image: url('images/icon-left.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -1325,7 +1325,7 @@
     outline: none;
     position: relative;
     z-index: 15;
-    background-image: url('images/icon-right.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right.png');
     background-repeat: no-repeat;
     background-position: center;
     float: left;
@@ -1580,7 +1580,7 @@
 .jqx-checkbox-check-checked
 {
     float: left;
-    background: transparent url(images/check_black.png) center center no-repeat;
+    background: transparent url(/packages/jqwidgets/lib/jqwidgets/styles/images/check_black.png) center center no-repeat;
     padding: 0px;
     border: none;
     outline: none;
@@ -1590,7 +1590,7 @@
 .jqx-checkbox-check-disabled
 {
     float: left;
-    background: transparent url(images/check_disabled.png) center center no-repeat;
+    background: transparent url(/packages/jqwidgets/lib/jqwidgets/styles/images/check_disabled.png) center center no-repeat;
     padding: 0px;
     border: none;
     outline: none;
@@ -1600,7 +1600,7 @@
 .jqx-checkbox-check-indeterminate
 {
     float: left;
-    background: transparent url(images/check_indeterminate_black.png) center center no-repeat;
+    background: transparent url(/packages/jqwidgets/lib/jqwidgets/styles/images/check_indeterminate_black.png) center center no-repeat;
     padding: 0px;
     border: none;
     outline: none;
@@ -1610,7 +1610,7 @@
 .jqx-checkbox-check-indeterminate-disabled
 {
     float: left;
-    background: transparent url(images/check_indeterminate_disabled.png) center center no-repeat;
+    background: transparent url(/packages/jqwidgets/lib/jqwidgets/styles/images/check_indeterminate_disabled.png) center center no-repeat;
     padding: 0px;
     border: none;
     outline: none;
@@ -1634,7 +1634,7 @@
 {
     cursor: pointer;
     float: left;
-    background: transparent url(images/roundbg_classic_normal.png) left center scroll repeat-x;
+    background: transparent url(/packages/jqwidgets/lib/jqwidgets/styles/images/roundbg_classic_normal.png) left center scroll repeat-x;
     padding: 0px;
     border: 1px solid transparent;
     outline: none;
@@ -1670,7 +1670,7 @@
 .jqx-radiobutton-check-checked
 {
     float: left;
-    background: transparent url(images/roundbg_check_black.png) left top no-repeat;
+    background: transparent url(/packages/jqwidgets/lib/jqwidgets/styles/images/roundbg_check_black.png) left top no-repeat;
     padding: 0px;
     border: 1px solid transparent;
     outline: none;
@@ -1691,7 +1691,7 @@
 .jqx-radiobutton-check-indeterminate
 {
     float: left;
-    background: transparent url(images/roundbg_check_indeterminate.png) left top no-repeat;
+    background: transparent url(/packages/jqwidgets/lib/jqwidgets/styles/images/roundbg_check_indeterminate.png) left top no-repeat;
     padding: 0px;
     border: none;
     outline: none;
@@ -1733,7 +1733,7 @@
     background-color: transparent;
     background-repeat: no-repeat;
     cursor: pointer;
-    background-image: url(images/star.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/star.png);
     overflow: hidden;
 }
 /*applied to the rating when it is hovered.*/
@@ -1743,7 +1743,7 @@
     padding: 0px;
     background-repeat: no-repeat;
     cursor: pointer;
-    background-image: url(images/star_hover.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/star_hover.png);
     overflow: hidden;
 }
 /*applied to the rating when it is disabled.*/
@@ -1753,7 +1753,7 @@
     padding: 0px;
     background-repeat: no-repeat;
     cursor: pointer;
-    background-image: url(images/star_disabled.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/star_disabled.png);
     overflow: hidden;
 }
 /*jqxCalendar Style*/
@@ -2529,13 +2529,13 @@ of the horizontal scrollbar.*/
 .jqx-window-close-button
 {
     cursor: pointer;
-    background-image: url(images/close.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/close.png);
     background-repeat: no-repeat;    
 }
 /*applied to the window's collapse button*/
 .jqx-window-collapse-button
 {
-    background-image: url(images/icon-up.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up.png);
     cursor: pointer;
     margin-top: 1px;
 }
@@ -2544,7 +2544,7 @@ of the horizontal scrollbar.*/
 {
     margin-top: 0px;
     cursor: pointer;
-    background-image: url(images/icon-down.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down.png);
 }
 /*setting styles of the modal window’s background*/
 .jqx-window-modal
@@ -2633,7 +2633,7 @@ of the horizontal scrollbar.*/
 /*applied to the slider's thumb when the slider is in horizontal mode*/
 .jqx-slider-slider-horizontal
 {   
-    background-image: url(images/slider_horizontal_classic.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/slider_horizontal_classic.png);
     background-repeat: no-repeat;
     margin-top: -5px;
     -moz-border-radius: 7px;
@@ -2645,7 +2645,7 @@ of the horizontal scrollbar.*/
 .jqx-slider-slider-vertical
 {
     margin-left: -5px;
-    background-image: url(images/slider_vertical_classic.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/slider_vertical_classic.png);
     background-repeat: no-repeat;
     -moz-border-radius: 7px;
     -webkit-border-radius: 7px;
@@ -2783,7 +2783,7 @@ of the horizontal scrollbar.*/
     padding: 0px;
     margin: 0px;
     background-color: transparent;
-    background-image: url(images/multi-arrow.gif);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/multi-arrow.gif);
 }
 .jqx-validator-error-label {
    color: #dd4b39;
@@ -2848,131 +2848,131 @@ of the horizontal scrollbar.*/
 
 .jqx-icon-delete
 {
-    background-image: url('images/icon-delete.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-delete.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-edit
 {
-    background-image: url('images/icon-edit.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-edit.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-save
 {
-    background-image: url('images/icon-save.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-save.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-cancel
 {
-    background-image: url('images/icon-cancel.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-cancel.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-up
 {
-    background-image: url('images/icon-up.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-down
 {
-    background-image: url('images/icon-down.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-left
 {
-    background-image: url('images/icon-left.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-right
 {
-    background-image: url('images/icon-right.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-first
 {
-    background-image: url('images/icon-first.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-first.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-last
 {
-    background-image: url('images/icon-last.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-last.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-up-hover
 {
-    background-image: url('images/icon-up.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-down-hover
 {
-    background-image: url('images/icon-down.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-left-hover
 {
-    background-image: url('images/icon-left.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-right-hover
 {
-    background-image: url('images/icon-right.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .jqx-icon-arrow-up-selected
 {
-    background-image: url('images/icon-up.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-up.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-down-selected
 {
-    background-image: url('images/icon-down.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-down.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-left-selected
 {
-    background-image: url('images/icon-left.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-left.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-arrow-right-selected
 {
-    background-image: url('images/icon-right.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/icon-right.png');
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-close
 {
     cursor: pointer;
-    background-image: url(images/close.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/close.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-close-hover
 {
     cursor: pointer;
-    background-image: url(images/close.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/close.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 .jqx-icon-search
 {
     cursor: pointer;
-    background-image: url(images/search.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/search.png);
     background-repeat: no-repeat;
     background-position: center;
     margin-top: 1px;
@@ -2982,7 +2982,7 @@ of the horizontal scrollbar.*/
 }
 .jqx-icon-plus
 {
-    background-image: url(images/plus.png);
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/plus.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 16px;
@@ -3218,7 +3218,7 @@ input[type=text].jqx-input, input[type=password].jqx-input {
 {
     border: 1px solid #A0A0A0;
     background-color: transparent;
-    background-image: url('images/colorpicker/map-saturation.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/colorpicker/map-saturation.png');
     background-repeat: no-repeat;
     background-position: left top;
     overflow: hidden;
@@ -3227,7 +3227,7 @@ input[type=text].jqx-input, input[type=password].jqx-input {
 {
     border: 1px solid #A0A0A0;
     background-color: transparent;
-    background-image: url('images/colorpicker/map-hue.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/colorpicker/map-hue.png');
     background-repeat: no-repeat;
     background-position: left top;
     overflow: hidden;
@@ -3235,7 +3235,7 @@ input[type=text].jqx-input, input[type=password].jqx-input {
 .jqx-color-picker-map-overlay
 { 
     background-color: transparent;
-    background-image: url('images/colorpicker/map-saturation-overlay.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/colorpicker/map-saturation-overlay.png');
     background-repeat: no-repeat;
     background-position: left top;
 }
@@ -3243,7 +3243,7 @@ input[type=text].jqx-input, input[type=password].jqx-input {
 {
     border: 1px solid #A0A0A0;
     background-color: transparent;
-    background-image: url('images/colorpicker/bar-saturation.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/colorpicker/bar-saturation.png');
     background-repeat: no-repeat;
     background-position: left top;
 }
@@ -3251,7 +3251,7 @@ input[type=text].jqx-input, input[type=password].jqx-input {
 {
     border: 1px solid #A0A0A0;
     background-color: transparent;
-    background-image: url('images/colorpicker/bar-hue.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/colorpicker/bar-hue.png');
     background-repeat: no-repeat;
     background-position: left top;
 }
@@ -3261,21 +3261,21 @@ input[type=text].jqx-input, input[type=password].jqx-input {
 }
 .jqx-color-picker-pointer
 {
-    background-image: url('images/crosshair.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/crosshair.png');
     background-repeat: no-repeat;
     height: 16px;
     width: 16px;
 }
 .jqx-color-picker-pointer-alt
 {
-    background-image: url('images/crosshair-white.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/crosshair-white.png');
     background-repeat: no-repeat;
     height: 16px;
     width: 16px;
 }
 .jqx-color-picker-bar-pointer
 {
-    background-image: url('images/pointer.png');
+    background-image: url('/packages/jqwidgets/lib/jqwidgets/styles/images/pointer.png');
     background-repeat: no-repeat;
     height: 15px;
     margin-left: 6px;
@@ -3484,7 +3484,7 @@ ol li .jqx-listmenu-item-label:before
 }
 .jqx-passwordinput-password-icon, .jqx-passwordinput-password-icon-rtl
 {
-    background-image: url(images/icon-showpassword.png) !important;
+    background-image: url(/packages/jqwidgets/lib/jqwidgets/styles/images/icon-showpassword.png) !important;
     background-repeat: no-repeat !important;
     width: 14px;
     height: 9px;

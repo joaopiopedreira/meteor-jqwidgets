@@ -21,13 +21,6 @@ Package.on_use(function (api) {
         'lib/jqwidgets/styles/images/check_indeterminate_black.png',
         'lib/jqwidgets/styles/images/drag.png',
 
-   /*     'lib/jqwidgets/styles/images/metro-icon-left.png',
-        'lib/jqwidgets/styles/images/metro-icon-right.png',
-        'lib/jqwidgets/styles/images/metro-icon-up.png',
-        'lib/jqwidgets/styles/images/metro-icon-down.png',
-        'lib/jqwidgets/styles/images/metro-icon-down-white.png',*/
-
-
 		'lib/jqwidgets/styles/jqx.base.css',
 		'lib/jqwidgets/styles/jqx.arctic.css',
 		'lib/jqwidgets/jqx-all.js'
