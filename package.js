@@ -1,12 +1,13 @@
 Package.describe({
-	summary: ""
+    name: 'jqwidgets',
+    summary: ""
 });
 
 Package.on_use(function (api) {
 
     api.use('jquery');
 
-	api.add_files([
+	api.addAssets([
         'lib/jqwidgets/styles/images/icon-left.png',
         'lib/jqwidgets/styles/images/icon-right.png',
         'lib/jqwidgets/styles/images/icon-up.png',
@@ -20,10 +21,14 @@ Package.on_use(function (api) {
         'lib/jqwidgets/styles/images/filter.png',
         'lib/jqwidgets/styles/images/check_indeterminate_black.png',
         'lib/jqwidgets/styles/images/drag.png',
+        'lib/jqwidgets/styles/images/icon-calendar.png',
+        'lib/jqwidgets/styles/images/icon-calendar-white.png'
+		], 'web.browser');
 
-		'lib/jqwidgets/styles/jqx.base.css',
-		'lib/jqwidgets/styles/jqx.arctic.css',
-		'lib/jqwidgets/jqx-all.js'
+    api.addFiles([
+        'lib/jqwidgets/styles/jqx.base.css',
+        'lib/jqwidgets/styles/jqx.arctic.css',
+        'lib/jqwidgets/jqx-all.js'
 
-		], 'client');
+    ], 'web.browser');
 });
